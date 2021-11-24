@@ -86,6 +86,8 @@ public class Compte {
             this.numCompte = "CHT00"+(1+this.db.nbreComptesByType(this.type));
         }else if(this.type.equals("Marge Credit")){
             this.numCompte = "CMC00"+(1+this.db.nbreComptesByType(this.type));
+        }else if(this.type.equals("Compte Epargne")){
+            this.numCompte = "CEP00"+(1+this.db.nbreComptesByType(this.type));
         }else{
             this.numCompte = "CCH00"+(1+this.db.nbreComptesByType(this.type));
         }

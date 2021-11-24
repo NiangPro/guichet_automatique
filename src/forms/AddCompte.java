@@ -130,7 +130,7 @@ public class AddCompte extends javax.swing.JFrame {
         cpt_etat.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Actif", "Desactif" }));
         jPanel1.add(cpt_etat, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 250, 190, 30));
 
-        cpte_type.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Compte Cheque", "Compte Credit", "Compte Hypothecaire", "Marge Credit" }));
+        cpte_type.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Compte Cheque", "Compte Credit", "Compte Hypothecaire", "Marge Credit", "Compte Epargne" }));
         jPanel1.add(cpte_type, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 190, 190, 30));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
