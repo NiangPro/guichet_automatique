@@ -59,7 +59,7 @@
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\HP\OneDrive\Images\concept-atm-homme-debout-pres-guichet-automatique_163786-655-removebg-preview.png"/>
+              <Image iconType="3" name="/icons/concept-atm-homme-debout-pres-guichet-automatique_163786-655-removebg-preview.png"/>
             </Property>
           </Properties>
           <Constraints>

@@ -307,7 +307,7 @@ public class AdminDashboard extends javax.swing.JFrame {
         sidebar.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\HP\\OneDrive\\Images\\lg.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/lg.png"))); // NOI18N
         sidebar.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 7, 210, 60));
 
         sHistory.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N

@@ -60,7 +60,7 @@ public class Main extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\HP\\OneDrive\\Images\\concept-atm-homme-debout-pres-guichet-automatique_163786-655-removebg-preview.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/concept-atm-homme-debout-pres-guichet-automatique_163786-655-removebg-preview.png"))); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(37, 104, 209, 285));
 
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
